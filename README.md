@@ -6,6 +6,6 @@ Design Patterns são soluções para problemas comuns que encontramos no
 
 Os padrões foram divididos em categorias conforme o problema que eles resolvem, sendo elas:
 
-- Padrões Criacionais
-- Padrões Estruturais
-- Padrões Comportamentais 
+- Padrões Criacionais
+- Padrões Estruturais
+- Padrões Comportamentais 
