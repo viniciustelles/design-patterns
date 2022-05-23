@@ -1,10 +1,10 @@
-# design-patterns 
+# Padrões de projeto implementados em Java
 
-## Introdução
+### Introdução
 
-Design Patterns (Padrões de Projeto) são soluções para problemas comuns que encontramos no desenvolvimento ou manutenção de um software.
+Design Patterns são soluções para problemas comuns que encontramos no desenvolvimento ou manutenção de um software.
 
-Os padrões foram divididos em categorias conforme o problema que eles resolvem.
+Os padrões foram divididos em categorias conforme o problema que eles resolvem, sendo elas:
 
 - Padrões Criacionais
 - Padrões Estruturais
