@@ -1,8 +1,8 @@
-package br.com.design.patterns.factory;
+package br.com.design.patterns.factory.simple;
 
-import br.com.design.patterns.factory.factory.ExportarArquivoFactory;
+import br.com.design.patterns.factory.simple.factory.ExportarArquivoFactory;
 
-public class AppCliente {
+public class AppClient {
 
     public static void main(String[] args) {
 

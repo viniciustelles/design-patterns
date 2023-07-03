@@ -1,8 +1,8 @@
-package br.com.design.patterns.factory.factory;
+package br.com.design.patterns.factory.simple.factory;
 
-import br.com.design.patterns.factory.model.ExportarArquivo;
-import br.com.design.patterns.factory.model.ExportarCSV;
-import br.com.design.patterns.factory.model.ExportarPDF;
+import br.com.design.patterns.factory.simple.model.ExportarArquivo;
+import br.com.design.patterns.factory.simple.model.ExportarCSV;
+import br.com.design.patterns.factory.simple.model.ExportarPDF;
 
 public class ExportarArquivoFactory {
 

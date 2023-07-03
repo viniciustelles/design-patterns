@@ -1,4 +1,4 @@
-package br.com.design.patterns.factory.model;
+package br.com.design.patterns.factory.simple.model;
 
 public class ExportarPDF implements ExportarArquivo {
     @Override
