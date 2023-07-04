@@ -10,7 +10,7 @@ public class ExportarArquivoFactory {
 
     }
 
-    public static ExportarArquivo exportar(final String type) {
+    public static ExportarArquivo exportarArquivo(final String type) {
         ExportarArquivo exportarArquivo;
 
         if ("csv".equalsIgnoreCase(type)) {
@@ -18,7 +18,7 @@ public class ExportarArquivoFactory {
         } else if ("pdf".equalsIgnoreCase(type)) {
             exportarArquivo = new ExportarPDF();
         } else {
-            throw new IllegalArgumentException("Formato de arquivo não suportado!");
+            throw new IllegalArgumentException("Formato de arquivo não suportado...");
         }
 
         exportarArquivo.exportar();
