@@ -1,4 +1,4 @@
-package br.com.design.patterns.adapter.model;
+package br.com.design.patterns.strategy.model;
 
 public class Customer {
 

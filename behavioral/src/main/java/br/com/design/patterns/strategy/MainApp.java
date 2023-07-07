@@ -1,10 +1,10 @@
-package br.com.design.patterns.adapter;
+package br.com.design.patterns.strategy;
 
-import br.com.design.patterns.adapter.model.Customer;
-import br.com.design.patterns.adapter.repository.CustomerOracleRepository;
-import br.com.design.patterns.adapter.repository.CustomerPostgreRepository;
-import br.com.design.patterns.adapter.repository.CustomerRepository;
-import br.com.design.patterns.adapter.repository.Repository;
+import br.com.design.patterns.strategy.model.Customer;
+import br.com.design.patterns.strategy.repository.CustomerOracleRepository;
+import br.com.design.patterns.strategy.repository.CustomerPostgreRepository;
+import br.com.design.patterns.strategy.repository.CustomerRepository;
+import br.com.design.patterns.strategy.repository.Repository;
 
 public class MainApp {
 

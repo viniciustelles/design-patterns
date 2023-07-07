@@ -1,6 +1,6 @@
-package br.com.design.patterns.adapter.repository;
+package br.com.design.patterns.strategy.repository;
 
-import br.com.design.patterns.adapter.model.Customer;
+import br.com.design.patterns.strategy.model.Customer;
 
 public class CustomerRepository {
 
